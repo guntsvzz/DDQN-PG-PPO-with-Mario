@@ -1,6 +1,6 @@
 # Reinforcement with Q-Learning 
 
-##Objectives :
+## Objectives :
 
 ## Member :
 st123010	Tonson Praphabkul
