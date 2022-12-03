@@ -1,5 +1,6 @@
 # MARIO VS PIPE WHO'S GONNA WIN!!!
 ## Objectives :
+To train Mario to clear the first stage.
 
 ## Member :
 ```
@@ -12,8 +13,12 @@ st123012	Todsavad Tangtortan
 ## Components :
 
 ## Limitation :
+- Training time 
+- Personal GPU is not supported
 
 ## Future Work :
+- Implementation to Double Deep Q-Network
+- Increasing more epoch
 
 ## Reference :
 - Klein, S. CS229 Final Report Deep Q-Learning to Play Mario.
