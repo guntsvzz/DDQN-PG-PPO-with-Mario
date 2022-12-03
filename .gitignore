@@ -1,3 +1,4 @@
 # ignore ALL .pdf files
+
 reference/DQN/*.pdf
 reference/GradientPolicy/*.pdf
