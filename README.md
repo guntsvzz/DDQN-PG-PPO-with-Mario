@@ -19,6 +19,7 @@ st123012	Todsavad Tangtortan
 ## Future Work :
 - Implementation to Double Deep Q-Network
 - Increasing more epoch
+- Proximal Policy Optimization Algorithms
 
 ## Reference :
 - Klein, S. CS229 Final Report Deep Q-Learning to Play Mario.
