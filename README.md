@@ -1,5 +1,4 @@
-# Reinforcement Learning with Deep Q-Network
-
+# MARIO VS PIPE WHO'S GONNA WIN!!!
 ## Objectives :
 
 ## Member :
