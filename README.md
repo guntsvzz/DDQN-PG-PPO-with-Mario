@@ -3,12 +3,13 @@
 ## Objectives :
 
 ## Member :
+```
 st123010	Tonson Praphabkul
-
 st123012	Todsavad Tangtortan
-
+```
 ## Dependencies :
-
+- gym-super-mario-bros 7.4.0
+- gym 0.26.0
 ## Components :
 
 ## Limitation :
