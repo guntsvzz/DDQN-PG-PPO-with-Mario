@@ -11,7 +11,9 @@ st123012	Todsavad Tangtortan
 - gym-super-mario-bros 7.4.0
 - gym 0.26.0
 ## Components :
-
+- mario_ddqn.ipynb
+- mario_pg.ipynb
+- mario_ppo.ipynb
 ## Limitation :
 - Training time 
 - Personal GPU is not supported
