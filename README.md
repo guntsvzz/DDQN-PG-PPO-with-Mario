@@ -11,19 +11,19 @@ st123012	Todsavad Tangtortan
 - gym-super-mario-bros 7.4.0
 - gym 0.26.0
 ## Components :
-- mario_ddqn.ipynb
-- mario_pg.ipynb
-- mario_ppo.ipynb
+- mario_ddqn.ipynb *complete*
+- mario_pg.ipynb *complete*
+- mario_ppo.ipynb *complete*
+- mario.ppdg.ipynb *FutureWork*
 *Reference : https://medium.com/geekculture/a-simple-guide-to-reinforcement-learning-with-the-super-mario-bros-environment-495a13974a54*
 ## Limitation :
 - Training time 
 - Personal GPU is not supported
 
 ## Future Work :
-- Implementation to Double Deep Q-Network
-- Increasing more epoch
-- Proximal Policy Optimization Algorithms
-
+- Adjusting reward score
+- Implement Deep Deterministic Policy Gradient (DDPG)
+- Implement Phasic policy gradient (PPG)
 ## Reference :
 - Klein, S. CS229 Final Report Deep Q-Learning to Play Mario.
 - Liao, Y., Yi, K., & Yang, Z. (2012). Cs229 final report reinforcement learning to play mario. Technical report, Stanford University.
