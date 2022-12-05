@@ -14,6 +14,7 @@ st123012	Todsavad Tangtortan
 - mario_ddqn.ipynb
 - mario_pg.ipynb
 - mario_ppo.ipynb
+*Reference : https://medium.com/geekculture/a-simple-guide-to-reinforcement-learning-with-the-super-mario-bros-environment-495a13974a54*
 ## Limitation :
 - Training time 
 - Personal GPU is not supported
